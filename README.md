@@ -1,3 +1,3 @@
-# Proyek Mobile Programming - Smart Wellness Tracker
+#Proyek Mobile Programming - Smart Wellness Tracker
 
-# 1. README.md
+#1. README.md
